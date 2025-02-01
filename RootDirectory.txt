@@ -1,0 +1,44 @@
+
+## 📂 **Root Directory**
+
+📂 SwiftPass (Passport Automation System) 
+│── 📜 README.md # Overview, setup guide, installation instructions 
+│── 📜 PROJECT_STRUCTURE.md # Full project structure documentation 
+│── 📜 Project_Description.pdf # Detailed project documentation 
+│── 📜 Gantt_Chart.mpp # Microsoft Project Gantt Chart 
+│── 📜 Gantt_Chart_Export.pdf # PDF Export of Gantt Chart 
+│── 📜 Budget_Allocation.xlsx # Project budget allocation 
+│── 📂 assets/ # Images & UI Prototypes 
+      │ ├── 📂 ui_prototypes/ # Screens from Justinmind │ 
+            │ ├── 📜 Admin_Dashboard.png │ 
+            │ ├── 📜 Application_Form.png │ 
+            │ ├── 📜 Application_Tracking.png │ 
+            │ ├── 📜 Confirmation_Page.png │ 
+            │ ├── 📜 Customer_Database.png │ 
+            │ ├── 📜 Customer_Report.png │ 
+            │ ├── 📜 Login_Page.png │ 
+            │ ├── 📜 Main_Menu.png │ 
+            │ ├── 📜 Payment_Page.png │ 
+      ├── 📂 budget_visuals/ # Budget Allocation Charts │ 
+            │ ├── 📜 Human_Resources_BarChart.png │ 
+            │ ├── 📜 Human_Resources_PieChart.png │ 
+            │ ├── 📜 Budget_Overview.png 
+│── 📂 diagrams/ # System Diagrams & Draw.io Files │ 
+      ├── 📜 Context_Diagram.png │ 
+      ├── 📜 DFD_Level_0.png │ 
+      ├── 📜 ER_Diagram.png │ 
+      ├── 📜 Network_Diagram.png │ 
+      ├── 📜 Critical_Path.png │ 
+      ├── 📜 WBS_Diagram.png │ 
+      ├── 📂 drawio_files/ # Original Draw.io source files │ 
+            │ ├── 📜 Context_Diagram.drawio │ 
+            │ ├── 📜 DFD_Level_0.drawio │ 
+            │ ├── 📜 ER_Diagram.drawio │ 
+            │ ├── 📜 Network_Diagram.drawio │ 
+            │ ├── 📜 Critical_Path.drawio │ 
+            │ ├── 📜 WBS_Diagram.drawio 
+│── 📂 planning/ # Project Management & Plans 
+      ├── 📜 Master_Project_Plan.docx 
+      ├── 📜 Risk_Management_Strategy.docx 
+      ├── 📜 System_Architecture_Documentation.pdf 
+      ├── 📜 Final_Project_Report.docx

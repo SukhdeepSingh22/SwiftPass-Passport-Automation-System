@@ -100,3 +100,6 @@ These diagrams collectively define the **architecture, system processes, project
 
 For any issues or clarifications, contact the **project team**.
 
+
+**Created by Sukhdeep Singh, Spring 2024**
+
